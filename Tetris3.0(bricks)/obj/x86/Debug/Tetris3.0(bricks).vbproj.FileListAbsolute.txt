@@ -1,0 +1,29 @@
+C:\Documents and Settings\Chris\my documents\visual studio 2010\Projects\Tetris3.0(bricks)\Tetris3.0(bricks)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Chris\my documents\visual studio 2010\Projects\Tetris3.0(bricks)\Tetris3.0(bricks)\obj\x86\Debug\Tetris3._0_bricks_.frmMain.resources
+C:\Documents and Settings\Chris\my documents\visual studio 2010\Projects\Tetris3.0(bricks)\Tetris3.0(bricks)\obj\x86\Debug\Tetris3._0_bricks_.frmStart.resources
+C:\Documents and Settings\Chris\my documents\visual studio 2010\Projects\Tetris3.0(bricks)\Tetris3.0(bricks)\obj\x86\Debug\Tetris3._0_bricks_.Resources.resources
+C:\Documents and Settings\Chris\my documents\visual studio 2010\Projects\Tetris3.0(bricks)\Tetris3.0(bricks)\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Chris\my documents\visual studio 2010\Projects\Tetris3.0(bricks)\Tetris3.0(bricks)\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Chris\my documents\visual studio 2010\Projects\Tetris3.0(bricks)\Tetris3.0(bricks)\bin\Debug\Tetris3.0(bricks).exe
+C:\Documents and Settings\Chris\my documents\visual studio 2010\Projects\Tetris3.0(bricks)\Tetris3.0(bricks)\bin\Debug\Tetris3.0(bricks).pdb
+C:\Documents and Settings\Chris\my documents\visual studio 2010\Projects\Tetris3.0(bricks)\Tetris3.0(bricks)\bin\Debug\Tetris3.0(bricks).xml
+C:\Documents and Settings\Chris\my documents\visual studio 2010\Projects\Tetris3.0(bricks)\Tetris3.0(bricks)\obj\x86\Debug\Tetris3.0(bricks).exe
+C:\Documents and Settings\Chris\my documents\visual studio 2010\Projects\Tetris3.0(bricks)\Tetris3.0(bricks)\obj\x86\Debug\Tetris3.0(bricks).xml
+C:\Documents and Settings\Chris\my documents\visual studio 2010\Projects\Tetris3.0(bricks)\Tetris3.0(bricks)\obj\x86\Debug\Tetris3.0(bricks).pdb
+C:\Documents and Settings\Chris\my documents\visual studio 2010\Projects\Tetris3.0(bricks)\Tetris3.0(bricks)\bin\Debug\Tetris3.0(bricks).exe.config
+C:\Documents and Settings\Chris\my documents\visual studio 2010\Projects\Tetris3.0(bricks)\Tetris3.0(bricks)\obj\x86\Debug\Tetris3._0_bricks_.frmPause.resources
+C:\Documents and Settings\Chris\my documents\visual studio 2010\Projects\Tetris3.0(bricks)\Tetris3.0(bricks)\obj\x86\Debug\Tetris3._0_bricks_.frmHelp.resources
+C:\Documents and Settings\Chris\Desktop\GITA 9th grade\Tetris3.0(bricks)\Tetris3.0(bricks)\bin\Debug\Tetris3.0(bricks).exe.config
+C:\Documents and Settings\Chris\Desktop\GITA 9th grade\Tetris3.0(bricks)\Tetris3.0(bricks)\obj\x86\Debug\Tetris3.0(bricks).exe
+C:\Documents and Settings\Chris\Desktop\GITA 9th grade\Tetris3.0(bricks)\Tetris3.0(bricks)\obj\x86\Debug\Tetris3.0(bricks).xml
+C:\Documents and Settings\Chris\Desktop\GITA 9th grade\Tetris3.0(bricks)\Tetris3.0(bricks)\obj\x86\Debug\Tetris3.0(bricks).pdb
+C:\Users\Chris\Desktop\GITA 9th grade\Tetris3.0(bricks)\Tetris3.0(bricks)\bin\Debug\Tetris3.0(bricks).exe.config
+C:\Users\Chris\Desktop\GITA 9th grade\Tetris3.0(bricks)\Tetris3.0(bricks)\obj\x86\Debug\Tetris3.0(bricks).exe
+C:\Users\Chris\Desktop\GITA 9th grade\Tetris3.0(bricks)\Tetris3.0(bricks)\obj\x86\Debug\Tetris3.0(bricks).xml
+C:\Users\Chris\Desktop\GITA 9th grade\Tetris3.0(bricks)\Tetris3.0(bricks)\obj\x86\Debug\Tetris3.0(bricks).pdb
+C:\Users\Chris\Desktop\GITA 9th grade\Tetris3.0(bricks)\Tetris3.0(bricks)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\break_000\Desktop\GITA 9th grade\Tetris3.0(bricks)\Tetris3.0(bricks)\obj\x86\Debug\Tetris3.0(bricks).vbprojResolveAssemblyReference.cache
+C:\Users\break_000\Desktop\GITA 9th grade\Tetris3.0(bricks)\Tetris3.0(bricks)\obj\x86\Debug\Tetris3.0(bricks).exe
+C:\Users\break_000\Desktop\GITA 9th grade\Tetris3.0(bricks)\Tetris3.0(bricks)\obj\x86\Debug\Tetris3.0(bricks).xml
+C:\Users\break_000\Desktop\GITA 9th grade\Tetris3.0(bricks)\Tetris3.0(bricks)\obj\x86\Debug\Tetris3.0(bricks).pdb
+C:\Users\break_000\Desktop\GITA 9th grade\Tetris3.0(bricks)\Tetris3.0(bricks)\bin\Debug\Tetris3.0(bricks).exe.config
